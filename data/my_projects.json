@@ -1,0 +1,10 @@
+[
+  {
+    "title": "AI Chatbot",
+    "description": "Built an AI-powered chatbot using GPT models and FastAPI."
+  },
+  {
+    "title": "Job Matching System",
+    "description": "Created a system to match resumes to job listings using AI."
+  }
+]

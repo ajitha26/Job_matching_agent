@@ -1,0 +1,272 @@
+role,company,stipend,link,job_description,skills,openings,perks,company_website,company_about
+AI Engineering,"Enshrine Global Systems Actively hiring","₹ 8,000 /month",https://internshala.com/internship/detail/work-from-home-ai-engineering-internship-at-enshrine-global-systems1748867177,"Key responsibilities:
+
+
+
+1. Develop modular production-grade AI agents using Python
+
+2. Integrate with agent frameworks like Crew AI, OpenAI Agent SDK, or Google ADK
+
+3. Implement decision logic, memory handling, and action chains
+
+4. Debug and optimize agent performance in real-time scenarios
+
+5. Assist in cloud-based deployment and API integrations
+
+
+
+Requirements:
+
+
+
+1. 1-2 years of Python development experience
+
+2. Familiarity with agent frameworks such as Crew AI, OpenAI Agent SDK, or Google ADK
+
+3. Solid understanding of software engineering principles
+
+4. Passion for building autonomous systems
+
+5. Experience with MCP (Multi-Agent Control Patterns)
+
+6. Exposure to Docker, serverless, or cloud deployment (AWS or GCP)","['AI Voiceover', 'Amazon Web Services (AWS)', 'ChatGPT', 'Google Cloud Platforms (GCP)', 'JavaScript', 'Python', 'PyTorch', 'Flexible work hours']",2,['Flexible work hours'],,"Enshrine Global Systems is a US-based company that offers fully integrated, end-to-end engineering services to our clients. Our experienced engineering team provides reliable services throughout the complete product development cycle. In IT, we provide data science, product development, prototype, and building services."
+Backend Development,"URE Legal Advocates Actively hiring","₹ 1,000 /month",https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-ure-legal-advocates1748839788,"Key responsibilities:
+
+
+
+1. Build, maintain, and optimize backend systems and RESTful/GraphQL APIs using Next.js (API routes), Node.js, and Express.js
+
+2. Integrate with relational and NoSQL databases including PostgreSQL, MongoDB, and Redis
+
+3. Implement authentication, session management, and robust security best practices
+
+4. Collaborate with front-end teams using React.js and Next.js for SSR/SSG with state management through Redux or Context API
+
+5. Develop and deploy end-to-end features connecting frontend UI, backend logic, and database layers
+
+6. Work with Python and ML frameworks such as scikit-learn, TensorFlow, PyTorch, spaCy, and NLTK
+
+7. Design and integrate ML/NLP models via REST APIs or direct Python-Node.js bindings using child\_process or gRPC
+
+8. Assist in building chatbots, recommendation engines, or language analysis modules as part of product features
+
+9. Deploy, monitor, and scale applications on AWS (EC2, S3, Lambda), Google Cloud, or Vercel
+
+10. Use Docker, Kubernetes, and CI/CD pipelines including Jenkins and GitHub Actions for automation and smooth releases
+
+11. Write unit and integration tests for API endpoints and business logic using Jest, Mocha, and Supertest
+
+12. Document backend architecture, API specifications (OpenAPI/Swagger), and model integration details
+
+13. Participate in agile sprints, code reviews, and daily stand-ups using Slack, Jira, Notion, and Trello
+
+14. Share progress, highlight blockers, and collaborate closely with cross-functional teams
+
+
+
+Requirements:
+
+
+
+1. Hold a BTech, MTech, MCA, or a related degree (students or recent graduates)
+
+2. Demonstrate proficiency in Node.js, Next.js (API/backend), and JavaScript/TypeScript
+
+3. Have experience with backend/database systems and developing REST/GraphQL APIs with basic frontend knowledge
+
+4. Show familiarity with Python and at least one ML/AI/NLP framework
+
+5. Possess strong analytical skills and a collaborative mindset with enthusiasm for working on AI-driven web products
+
+6. Display strong communication and documentation abilities
+
+
+
+Tool/Technologies:
+
+
+
+1. Backend/API: Next.js (API routes), Node.js, Express.js, REST, GraphQL
+
+2. Full Stack: React.js, Next.js, Redux/Context API, SCSS/CSS Modules
+
+3. Database: PostgreSQL, MongoDB, Redis
+
+4. ML/AI/NLP: Python, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy
+
+5. Cloud/DevOps: AWS, Google Cloud, Vercel, Docker, Kubernetes, Jenkins, GitHub Actions
+
+6. Security/Auth: JWT, OAuth, Auth0, best practices for API/DB security
+
+7. Version Control: Git, GitHub, GitLab
+
+8. Testing: Jest, Mocha, Supertest
+
+9. Collaboration: Slack, Jira, Notion, Trello
+
+
+
+Location:C-84, Sector 2, Noida - 201301 (Near Sector 15 Metro Station)","['Django', 'Express.js', 'Java', 'MySQL', 'Natural Language Processing (NLP)', 'Next.js', 'Node.js', 'PHP', 'Python', 'REST API', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",4,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",http://urelegal.in,"URE Legal Advocates, founded in 1999, is a law firm specializing in corporate international tax, transfer pricing, GST, customs & trade, insolvency & bankruptcy code, SARFAESI, RDB Act, and MCS Act, with expertise in policy, disputes, and transaction advisory. We provide consulting services on tax litigation, tax investigations, and alternate dispute resolution (APA, MAP, and advance ruling), as well as civil litigation and white-collar crimes, while also acting as expert witnesses on treaty and transfer pricing law. Our senior partners offer strategic insights and legal advice on complex legal and tax matters, including pre-litigation and litigation support, representing clients before authorities such as ITAT, CBDT, CBIC, the Directorate of Revenue Intelligence (DRI), Central Bureau of Investigation (CBI), the Directorate of Enforcement (ED), DRT, and DRAT. Dostartup.in, urehr.com, and Ytpr.in also operate under URE Consulting LLP."
+Machine Learning,"Optimspace Actively hiring","₹ 7,500 - 15,000 /month",https://internshala.com/internship/detail/work-from-home-part-time-machine-learning-internship-at-optimspace1748831816,"Are you a talented machine learning enthusiast with a strong foundation in Python? Optimspace is looking for a dynamic intern to join our team and work on cutting-edge projects in the field of machine learning. As a machine learning intern at Optimspace, you will have the opportunity to collaborate with experienced professionals and gain valuable hands-on experience in leveraging advanced algorithms to drive innovation and success. 
+
+
+
+Selected intern's day-to-day responsibilities include:
+
+
+
+1. Develop and implement machine learning models to solve complex business problems
+
+2. Conduct data analysis and interpretation to extract meaningful insights
+
+3. Collaborate with cross-functional teams to enhance data-driven decision making
+
+4. Research and experiment with new machine learning techniques for continuous improvement
+
+5. Assist in data preprocessing, feature engineering, and model evaluation
+
+6. Support the development of scalable machine learning pipelines
+
+7. Stay updated on industry trends and best practices to contribute fresh ideas and perspectives
+
+
+
+If you are passionate about machine learning and eager to make a significant impact, apply now to join Optimspace as a machine learning intern!","['Machine Learning', 'Python', 'Certificate', 'Letter of recommendation', 'Flexible work hours', '5 days a week']",4,"['Certificate', 'Letter of recommendation', 'Flexible work hours', '5 days a week']",http://optimspace.in,"At OptimSpace, we solve a critical problem: the lack of real-world experience that keeps talented individuals from landing their dream jobs. Our mission is to bridge the gap between skilled individuals and the careers they deserve by delivering innovative, results-oriented solutions. At OptimSpace, we don't just help you learn; we help you succeed. Forget outdated theory. It's time to focus on practicality, experience, and strategies that work. Welcome to the platform where jobs are earned, not just dreamed of. Let's shape your future, together."
+Business Development (Sales),"Pawzz Foundation Actively hiring","₹ 1,500 - 8,000 /month",https://internshala.com/internship/detail/work-from-home-part-time-business-development-sales-internship-at-pawzz-foundation1748831197,"Are you looking for a dynamic opportunity to develop business strategies, enhance outreach, and drive revenue growth while making a real social impact? Join Pawzz as a business development intern, where you will play a crucial role in fundraising, donor engagement, and campaign marketing to support stray animals. This internship will not only enhance your resume with a letter of recommendation but also help you develop key skills in sales, networking, revenue generation, and market expansion. As a business development intern, you will leverage available resources while identifying new growth opportunities, ensuring both personal and organizational success. 
+
+
+
+Selected intern's day-to-day responsibilities include:
+
+
+
+1. Attract donors and sponsors through strategic networking and outreach campaigns.
+
+2. Utilize social media, WhatsApp, LinkedIn, email, and calls to build relationships with potential supporters.
+
+3. Create compelling marketing pitches and fundraising messages to drive donations.
+
+4. Identify and develop new partnerships with individuals, corporations, and organizations to expand revenue streams.
+
+
+
+This internship is a perfect opportunity to develop essential business skills, build a strong professional network, and create a lasting impact. If you're ready to drive change while growing professionally, apply now!","['Business Analysis', 'Business Research', 'Data Analysis', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Ads', 'Market Analysis', 'MS-Excel', 'Product Strategy', 'Sales', 'Social Media Marketing', 'Time Management', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",100,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",,"Pawzz is an upcoming aggregation platform in animal welfare for rescuers and non-profit organizations. We raise awareness about issues related to animal cruelty while simultaneously providing a platform for animal lovers to volunteer, adopt animals, fund campaigns, post-rescue stories, and become a vital part of the movement aiming for the complete eradication of the stigma towards animals in our society. Our mission is to balance out the human-animal ecosystem in the country and ensure that both live in harmony with each other."
+AI/ML Engineer,VTY Triksha Health Tech Private Limited,"₹ 2,000 /month",https://internshala.com/internship/detail/work-from-home-part-time-ai-ml-engineer-internship-at-vty-triksha-health-tech-private-limited1748784655,"Selected intern's day-to-day responsibilities include:
+
+
+
+1. Work on data collection, cleaning, and preprocessing for AI models.
+
+2. Develop and train machine learning models for predictive health insights.
+
+3. Test and optimize AI models for accuracy and efficiency.
+
+4. Collaborate with the team to integrate AI into the Triksha platform.
+
+5. Research and apply new AI techniques to improve predictions.
+
+6. Participate in weekly updates and discussions on progress.","['Deep Learning', 'LSTM (Long Short-Term Memory)', 'Machine Learning', 'Natural Language Processing (NLP)', 'Neural Networks', 'Python', 'Certificate', 'Letter of recommendation', 'Flexible work hours', '5 days a week']",4,"['Certificate', 'Letter of recommendation', 'Flexible work hours', '5 days a week']",,"Triksha is transforming healthcare with AI-driven insights and real-time health alerts. Our platform helps individuals stay ahead of potential health risks by analyzing key body signals and providing proactive recommendations.
+
+With a focus on personalized health monitoring, Triksha combines advanced AI technology with user-friendly solutions to promote better health awareness and early risk detection. Stay informed, take control, and lead a healthier life with Triksha."
+Volunteering - Web Development For Experienced Developers,"Conscious Humanity Network Foundation Actively hiring",Unpaid,https://internshala.com/internship/detail/work-from-home-part-time-volunteering-web-development-for-experienced-developers-internship-at-conscious-humanity-network-foundation1748700641,"We need web developers with expertise in at least 1 of the following skills - Node.js,  Nest.js,  Vue.js, Laravel.
+
+
+
+Selected volunteer's day-to-day responsibilities include creating websites through Node.js, Nest.js, Vue.js, etc.
+
+
+
+Please do not apply if you do not have expertise.
+
+
+
+We are looking only for serious volunteers. To prevent mutual waste of time, energy, and resources, any volunteer not working seriously can be removed with immediate effect without any benefits being given. We will give volunteering certificates to only those who have contributed sufficiently.","['Community Management', 'E-commerce', 'English Proficiency (Written)', 'Google Analytics', 'Ionic', 'Laravel', 'NestJS', 'Node.js', 'Vue.js', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",20,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",,"CHNF (Conscious Humanity Network Foundation) - Global Non-Profit Aggregator and Communities - CHNF was incorporated on 11/10/2023 as a Section 8 Non-Profit Company under the Indian Companies Act, 2013. Broadly, over the years, all the non-profit ecosystem players in the world will be aggregated and their products & services will be available on our websites & apps. What all the ecosystem players need will also be available on our websites & apps. Also, communities of all the non-profit ecosystem players, causes, etc., will be formed, and there will be individual & group communication in the communities. These communities will be in our apps & websites. CHNF is part of Divine Play. Vishal Bhuta is the founder & CEO of 8+ global non-profits like Conscious Humanity Network Foundation, Global Peace, Crime, Tragedy, Vices Solutions, Vande Bharat, and 10+ Global For-Profits like Global Cybersecurity, Legal, Healthcare, AI, Agriculture, Employment, Sports Marketplaces, etc."
+AI Engineering,"Icecreamlabs Actively hiring","₹ 15,000 - 25,000 /month",https://internshala.com/internship/detail/work-from-home-ai-engineering-internship-at-icecreamlabs1748699914,"Job Title:  AI Agents Engineer 
+
+Location:  Remote
+
+Employment Type:  Full-time
+
+Experience Level:  Entry
+
+
+
+Join our team to develop and deploy AI agent solutions using Python. Work hands-on with cutting-edge AI technologies and frameworks.
+
+
+
+Key responsibilities:
+
+
+
+1. Develop and maintain AI agent applications using Python
+
+2. Implement prompt engineering techniques for AI agents
+
+3. Work with Google ADK, OpenAI Agent SDK, or Crew AI
+
+4. Collaborate on building and improving AI agent concepts
+
+5. Support cloud deployment of AI solutions
+
+
+
+Required Qualifications:
+
+
+
+1. 1-2 years of Python programming experience with prompt engineering
+
+2. Hands-on experience with Google ADK, OpenAI Agent SDK, or Crew AI
+
+3. Strong understanding of AI agent concepts
+
+
+
+Preferred Qualifications:
+
+
+
+1. Experience building MCP
+
+2. Experience with cloud deployment
+
+3. BS/MS/MTech students","['Prompt Engineering', 'Python', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",4,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",http://icecreamlabs.com,Icecreamlabs is an AI venture studio. We build AI-first startups tackling complex enterprise problems.
+Machine Learning,"Rythukart Private Limited Actively hiring","₹ 1,000 - 2,000 /month",https://internshala.com/internship/detail/work-from-home-part-time-machine-learning-internship-at-rythukart-private-limited1748610996,"Are you passionate about machine learning and eager to put your skills to the test? Look no further! Rythukart Private Limited is seeking a talented machine learning intern to join our dynamic team. As an intern, you will have the opportunity to work on cutting-edge projects and gain valuable hands-on experience in the field. 
+
+
+
+Selected intern's day-to-day responsibilities include:
+
+
+
+1. Assist in developing and implementing machine learning algorithms.
+
+2. Collaborate with team members to analyze and interpret data.
+
+3. Support in creating predictive models and data visualizations.
+
+4. Conduct research to stay updated on the latest trends in machine learning.
+
+5. Assist in testing and validating models to ensure accuracy and efficiency.
+
+6. Participate in brainstorming sessions to generate innovative ideas.
+
+7. Present findings and recommendations to stakeholders clearly and concisely.
+
+
+
+If you are a proactive and motivated individual with a strong foundation in machine learning concepts, we want to hear from you! Join us at Rythukart Private Limited and take the first step towards a successful career in the tech industry. Apply now!","['Machine Learning', 'Python', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",2,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",http://rythukart.com,"RytuKart - Agriculture Products & Crop Consultancy Online. RytuKart is your one-stop agriculture e-commerce platform, offering seeds, fertilizers, insecticides, herbicides, and fungicides online. We also provide expert crop consultancy to help farmers boost productivity. Simplify farming with RytuKart - quality products and trusted advice, all in one place."
+Machine Learning,"SN Mentoring Actively hiring","₹ 10,000 - 15,000 /month",https://internshala.com/internship/detail/work-from-home-part-time-machine-learning-internship-at-sn-mentoring1748595766,"Selected intern's day-to-day responsibilities include: 
+
+
+
+1. Read, understand, and extract insights from various AI research papers 
+
+2. Learn to work on a deep learning framework and get familiar with data manipulation techniques
+
+3. Collect data, perform experiments, and measure performance metrics
+
+4. Prototype and experiment with various ML and deep learning techniques for performance and scalability
+
+5. Deploy ML models on VM instances","['Artificial intelligence', 'Deep Learning', 'Machine Learning', 'Natural Language Processing (NLP)', 'Python', 'Certificate', 'Letter of recommendation', 'Flexible work hours']",1,"['Certificate', 'Letter of recommendation', 'Flexible work hours']",http://snanda.in,"SN Mentoring is a happiness-focused career consulting organization. We invest time to carve out a career path that should ultimately lead to happiness for you. Because if one does what one loves, then one is happy! We are a career and education guidance organization built on expertise, experience, and results where passionate mentors bring out the best in you. We provide highly customized career development services. We work on the scientific career counseling processes developed by Saurabh Nanda, who has dedicated his life to revealing career decision-making influencers. He is an International Youth Mentor working with youngsters in 20+ countries, 500+ schools, 40+ universities, NITI Aayog's AIM, Youth and UN Global Alliance, and Huawei CSR among others. He will be delivering a TEDx talk on our processes in Awaji, Japan on 18th Dec 2022."

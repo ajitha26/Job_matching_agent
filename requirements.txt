@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+google-generativeai
+google-adk
+pydantic
+pytest

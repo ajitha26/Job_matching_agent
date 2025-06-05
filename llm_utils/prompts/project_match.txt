@@ -1,0 +1,12 @@
+Given the candidate's resume, a job description, and a list of projects, list the projects that best match the job requirements.
+
+Resume:
+{resume}
+
+Job Description:
+{job_description}
+
+Projects:
+{projects_list}
+
+List the matching project titles:

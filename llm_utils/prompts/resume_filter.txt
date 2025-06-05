@@ -1,0 +1,9 @@
+Given the candidate's resume and the job description below, answer YES if the job is relevant to the candidate's skills and experience, otherwise answer NO.
+
+Resume:
+{resume}
+
+Job Description:
+{job_description}
+
+Answer YES or NO:
