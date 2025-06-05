@@ -3,7 +3,7 @@ import httpx
 import os, certifi
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
-API_KEY = "AIzaSyALn5gEk1DeBNoIFRBdk52K3d_S5JKyC3M"  # or hardcode for test
+API_KEY = ""  # or hardcode for test
 url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 headers = {
