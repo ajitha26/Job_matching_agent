@@ -47,6 +47,7 @@ An experimental AI-powered agent that scrapes job postings from multiple website
 
 ---
 
-Do you want me to also generate the **requirements.txt** so you can push that along with this README? That’ll make the repo immediately runnable.
+
+
 
 
