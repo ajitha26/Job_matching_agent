@@ -1,5 +1,3 @@
-Got it 👍 — here’s a **cleaner README** version without project structure or emojis:
-
 ---
 
 # Job Matcher Agent
@@ -50,3 +48,4 @@ An experimental AI-powered agent that scrapes job postings from multiple website
 ---
 
 Do you want me to also generate the **requirements.txt** so you can push that along with this README? That’ll make the repo immediately runnable.
+
